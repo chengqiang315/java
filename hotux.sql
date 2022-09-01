@@ -16,7 +16,7 @@
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
-
+12344252525252452525252
 -- ----------------------------
 -- Table structure for category
 -- ----------------------------
